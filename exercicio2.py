@@ -1,0 +1,5 @@
+numero = float(input ("Digite o numero de 3 digitos  diferente de 0 : "))
+centena = int(numero/100)
+dezena = int(numero%100 / 10)
+unidade = int(numero%100 % 10)
+print('O numero invertido é : ' ,(unidade) , (dezena) , (centena))
