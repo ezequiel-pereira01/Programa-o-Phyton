@@ -8,3 +8,5 @@ if a>b :
     a = b
     b = aux 
     print("o numero é " , str(b) , str(a))
+
+print('final')
